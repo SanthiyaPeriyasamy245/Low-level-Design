@@ -1,0 +1,1 @@
+trancsactionId=1, type=opening, amount=10000.0, balance=10000.0

@@ -1,0 +1,1 @@
+trancsactionId=0, type=Depoist, amount=2000.0, balance=12000.0trancsactionId=0, type=Depoist, amount=70000.0, balance=82000.0trancsactionId=0, type=Withdrawn, amount=1000.0, balance=81000.0

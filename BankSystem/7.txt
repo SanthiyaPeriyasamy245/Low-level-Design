@@ -1,0 +1,3 @@
+trancsactionId=0, type=Withdrawn, amount=1000.0, balance=80000.0
+1 Depoist 200.0 85200.0
+1 Depoist 200.0 85400.0
